@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Marcelli Mates👋
 
--Cursando Ciência da Computação
+- Cursando Ciência da Computação
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelli_mates_)
 
