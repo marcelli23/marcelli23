@@ -3,7 +3,7 @@
 - Cursando Ciência da Computação
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marcelli_mates_)
-[![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)]([https://instagram.com/marcelli_mates](https://www.linkedin.com/in/marcelli-mates-caetano-1b3b81289/)_)
+[![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelli-mates-caetano-1b3b81289/)
 
 ![Marcelli GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelli23&show_icons=true&theme=dracula)
 
